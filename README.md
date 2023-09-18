@@ -4,7 +4,6 @@
 
  When I'm not chasing hiking trails or seeking new adventures, you'll find me immersed in the digital realm, crafting lines of code into solutions and experiences.
 
-- 🎓 Recent Moringa School Graduate
 - 📱 Former GDSC Android Lead at Kabarak University
 - 👨‍💻 Currently venturing into AR/VR while sharpening my skills in React, Ruby, and JavaScript
 - 🏞️ I love hiking, the outdoors, and nature
